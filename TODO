@@ -1,0 +1,9 @@
+* Disable auto-update
+
+* Changing theme requires restart
+
+* Plugin path ? Installs a node module !
+    - List plugins on startup and install the missing ones!
+
+* upgrade!
+
